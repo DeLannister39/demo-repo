@@ -1,2 +1,3 @@
-# demo-repo
-first repo
+# Demo-repo
+
+Emmanuel's First Repo
